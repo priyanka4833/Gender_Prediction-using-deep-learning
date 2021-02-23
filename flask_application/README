@@ -1,0 +1,5 @@
+#to run the flask application change the path of the model in flask_model_service.py in line 21
+#theen run the below command for execution
+python3 flask_model_service.py
+#with the above command,serivce will start.
+Next step is open login.html from this folder. Enter the name and type submit.The predicted gender will be dispalyed.
